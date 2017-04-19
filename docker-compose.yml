@@ -24,7 +24,7 @@ services:
       image: mariadb
       environment:
           - MYSQL_DATABASE=glo      
-          - MYSQL_ROOT_PASSWORD=$Beach17$
+          - MYSQL_ROOT_PASSWORD=L0v3Gl0
 
 #      volumes:
 #          - ./database:/var/lib/mysql
